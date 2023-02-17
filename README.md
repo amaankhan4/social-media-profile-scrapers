@@ -26,7 +26,10 @@
 
 
 ## Installation
-
+1. Clone git
+   ```
+   git clone https://github.com/shaikhsajid1111/social-media-profile-scrapers.git
+   ```
 1. Install dependencies mentioned inside [requirement.txt](requirement.txt) by opening terminal in project's directory and enter command
     ```
     pip install -r requirement.txt
